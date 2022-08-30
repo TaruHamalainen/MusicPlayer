@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 75122978af82a6f4fbb2e4b759f6a276, type: 3}
   m_Name: Track 1
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: 2f5ebc6011367e342bdb649cf49e4633, type: 3}
-  fileName: Test track 1
-  artistName: Test Artist 1
+  clip: {fileID: 8300000, guid: 34c457faee66cbf42b66ab38be1ec28f, type: 3}
+  fileName: '1x1 '
+  artistName: Bring me the horizon
   albumName: Test Album 1
   clipImage: {fileID: -157448111, guid: bd6aad24e62b117449ce4eae39159939, type: 3}
